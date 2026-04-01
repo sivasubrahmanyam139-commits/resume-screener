@@ -81,10 +81,10 @@ http://localhost:5173/
 
 ## 🎥 Demo
 
-(Add your video link here)
+(https://drive.google.com/file/d/1V_Z9N2NEQKsQHXiJ-1KwD0yzbPc2MeLb/view?usp=sharing)
 
 ---
 
 ## 👨‍💻 Author
 
-Siva Subramanyam
+Ranga Siva Subramanyam
